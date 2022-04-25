@@ -5,8 +5,7 @@
 # Installation
 1. git clone https://github.com/joselofierro/TestNBAPlayers.git
 2. cd TestNBAPlayers/
-3. source .venv/Scripts/activate
-4. pip install -r requirements.txt
+3. pip install -r requirements.txt
 
 # Running
 1. python nba.py {arg_int}
